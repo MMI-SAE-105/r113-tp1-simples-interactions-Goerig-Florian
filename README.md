@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : GOERIG  
+- prénom : Florian
+- URL Netlify : https://jade-dragon-525f92.netlify.app/
 
 # Travail
 
